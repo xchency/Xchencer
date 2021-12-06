@@ -1,5 +1,5 @@
 # Xchencer
-Gte it
+Get it
 Hi human!
 
 Hubot here!I like C/C++,java,php and Python(that what I made of!) .
